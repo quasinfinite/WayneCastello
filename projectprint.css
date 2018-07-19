@@ -1,0 +1,48 @@
+/*
+	Final Project
+	Author: Joseph Hart
+	Date: December 9th, 2013
+	
+	File Name: projectprint.css
+*/
+
+h1 { display: none;}
+h2 { text-align: center;
+}
+
+table { padding-bottom: 10px;
+					 width: 100%;
+					 margin: auto;
+}
+
+td, th { padding: 5px;}
+					
+p:nth-of-type(5) { padding-left: 22px;}
+
+#indent { padding-left: 22px;}
+#nav { display: none;}
+#letterhead { text-align: center;
+										 padding-bottom: 20px;
+}
+#datetop { text-align: center;
+								 padding-bottom: 50px;
+}
+#address { padding-bottom: 20px;}
+#re { text-align: center;
+}
+#title { padding-bottom: 10px;
+					 font-weight: bold;
+}
+#footerthank { font-weight: bold;
+											padding-bottom: 10px;
+											text-align: center;
+}
+#footerfile { font-size: 0.8em;
+									 font-weight: bold;
+}
+
+.cost { padding-bottom: 10px;}
+
+.bold { font-weight: bold;
+				text-decoration: underline;
+}
